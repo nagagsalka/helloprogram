@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42" started-at="2016-07-31T14:52:24Z" finished-at="2016-07-31T14:52:24Z">
+  <suite name="Default suite" duration-ms="95" started-at="2016-07-31T15:11:58Z" finished-at="2016-07-31T15:11:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42" started-at="2016-07-31T14:52:24Z" finished-at="2016-07-31T14:52:24Z">
+    <test name="Default test" duration-ms="95" started-at="2016-07-31T15:11:58Z" finished-at="2016-07-31T15:11:58Z">
       <class name="com.test.utils.HelloProgram">
-        <test-method status="PASS" signature="hello()[pri:0, instance:com.test.utils.HelloProgram@17d0578]" name="hello" duration-ms="9" started-at="2016-07-31T10:52:24Z" finished-at="2016-07-31T10:52:24Z">
+        <test-method status="PASS" signature="hello()[pri:0, instance:com.test.utils.HelloProgram@17d0578]" name="hello" duration-ms="15" started-at="2016-07-31T11:11:58Z" finished-at="2016-07-31T11:11:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hello -->
-        <test-method status="PASS" signature="helloShafiBhai()[pri:0, instance:com.test.utils.HelloProgram@17d0578]" name="helloShafiBhai" duration-ms="0" started-at="2016-07-31T10:52:24Z" finished-at="2016-07-31T10:52:24Z">
+        <test-method status="PASS" signature="helloShafiBhai()[pri:0, instance:com.test.utils.HelloProgram@17d0578]" name="helloShafiBhai" duration-ms="2" started-at="2016-07-31T11:11:58Z" finished-at="2016-07-31T11:11:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloShafiBhai -->
+        <test-method status="PASS" signature="whatsUp()[pri:0, instance:com.test.utils.HelloProgram@17d0578]" name="whatsUp" duration-ms="18" started-at="2016-07-31T11:11:58Z" finished-at="2016-07-31T11:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsUp -->
       </class> <!-- com.test.utils.HelloProgram -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

@@ -20,5 +20,10 @@ public class HelloProgram {
 	
 		System.out.println("whatsUp");
 	}
+	@Test
+	public void addition(){
+	
+		System.out.println("addition");
+	}
 
 }
