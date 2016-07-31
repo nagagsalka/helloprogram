@@ -15,5 +15,10 @@ public class HelloProgram {
 	
 		System.out.println("helloShafiBhai");
 	}
+	@Test
+	public void whatsUp(){
+	
+		System.out.println("whatsUp");
+	}
 
 }
